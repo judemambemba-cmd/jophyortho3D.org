@@ -1,0 +1,12 @@
+{
+  "name": "JophyOrtho 3D",
+  "short_name": "JophyOrtho",
+  "description": "CAO 3D orthoprothétique hors-ligne (non certifiée) : emboîtures transtibiales et transfémorales, corsets du tronc, orthèses des membres, de la tête et du cou.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1118",
+  "theme_color": "#0b1118",
+  "lang": "fr",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
